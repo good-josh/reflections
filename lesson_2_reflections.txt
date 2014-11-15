@@ -6,3 +6,17 @@ this tells git about the repository.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is an intermediate zone. It may prevent accidental commits. It allows for incremental update of what we want to commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can add files related to a particular change, then alter comit them.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If I want to perform a drastic change, then I can safely do so on a branch.
+
+How do the diagrams help you visualize the branch structure?
+
+They help us see where certain paths were taken and became new branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
